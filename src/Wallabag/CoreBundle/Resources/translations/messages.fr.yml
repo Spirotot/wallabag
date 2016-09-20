@@ -436,12 +436,8 @@ flashes:
         notice:
             failed: "L'import a échoué, veuillez ré-essayer"
             failed_on_file: "Erreur lors du traitement de l'import. Vérifier votre fichier."
-<<<<<<< 32e95760f567e5849dd71aaba9aabb1ab56bcd0a
             summary: "Rapport d'import: %imported% importés, %skipped% déjà présent."
             summary_with_queue: "Rapport d'import: %queued% en cours de traitement."
-=======
-            summary: "Rapport d'import: %imported% importés, %skipped% déjà présents."
->>>>>>> Import Firefox & Chrome bookmarks into wallabag
     developer:
         notice:
             client_created: 'Nouveau client %name% créé'
